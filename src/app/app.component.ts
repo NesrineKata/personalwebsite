@@ -36,7 +36,7 @@ export class AppComponent {
     name:"Personal Website",
     desc:"My Personal Website",
     lang:" Angular",
-    link:"https://github.com/NesrineKata/url-shortener-microservice"
+    link:"https://github.com/NesrineKata/personalwebsite.git"
   }
 ];
   Exp=[
@@ -60,13 +60,17 @@ export class AppComponent {
   ];
   studies=[
      {
-       name:"Computer Science Engineering/TEK-UP University, Tunisia",
+       name:"Computer Science Engineering at ",
+       uni:"TEK-UP University, Tunisia",
+       link:"https://tek-up.de/",
        period:"Sep 2019 - Present",
        desc:`AWS,Spring boot,Angular,Nodejs,Asp.net,Data Structures and 
        Algorithms and Agile Methodology .`
      },
      {
-      name:`BSc Computer Science/<a href="">ISIMM University</a>, Tunisia`,
+      name:`BSc Computer Science at `,
+      link:"http://www.isimm.rnu.tn/public/",
+      uni:"ISIMM University, Tunisia",
       period:"Graduated in 2019",
       desc:`Networking,OOP,Algorithms and data structures and Computer 
       Ethics.`
