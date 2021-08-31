@@ -9,12 +9,12 @@ export class AppComponent {
   title = 'personalWebsite';
   Projects=[{
     name:"E-commerce Website",
-    desc:"An E-commerce fullstack website includes online payment using Stripe",
+    desc:"An E-commerce website includes online payment using Stripe",
     lang:" Spring Boot | Angular | MYSQL | JWT",
     link:"https://github.com/NesrineKata/SpringBootproject"
   },{
     name:" Travel Guide",
-    desc:"A Traval Guide fullstack website",
+    desc:"A Traval Guide website",
     lang:" Asp.Net | SQLLITE",
     link:"https://github.com/NesrineKata/TravelGuideApp"
   },{
